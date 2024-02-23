@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Wibu](https://media1.tenor.com/m/Hn25cGysfAoAAAAC/kemomimi-kemomimichan.gif)
 <!--
 **HieuHongHao/HieuHongHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
